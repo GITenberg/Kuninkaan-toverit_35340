@@ -1,0 +1,43 @@
+_repo: Kuninkaan-toverit_35340
+_version: 0.1.0
+alternative_title: Les compères du roy. Finnish
+contributor:
+  translator:
+    agent_name: Yrjö-Koskinen, Yrjö Sakari
+    aliases:
+    - Yrjo-Koskinen, Yrjo Sakari
+    - Forsman, Georg Zacharias
+    - Koskinen, Yrjö Sakari
+    birthdate: 1830
+    deathdate: 1903
+    gutenberg_agent_id: '8325'
+    url: http://www.gutenberg.org/2009/agents/8325
+    wikipedia: http://fi.wikipedia.org/wiki/Yrj%C3%B6_Sakari_Yrj%C3%B6-Koskinen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deslys, Charles
+    alias: Deslys, Charles Collinet
+    birthdate: 1821
+    deathdate: 1885
+    gutenberg_agent_id: '37608'
+    url: http://www.gutenberg.org/2009/agents/37608
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35340'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcsh 'Charles, Duke of Burgundy, 1433-1477 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Louis XI, King of France, 1423-1483 -- Fiction'
+- !lcsh 'Historical fiction'
+title: Kuninkaan toverit
+url: http://www.gutenberg.org/ebooks/35340
